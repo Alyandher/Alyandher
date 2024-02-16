@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alyandher@gmail.com**
 
-- 📄 Know about my experiences [I'm studying for a career transition.](I'm studying for a career transition.)
+- 📄 Know about my experiences - I'm studying for a career transition.
 
 - ⚡ Fun fact **Most people say that I'm very intelligent and I learn things quickly.**
 
