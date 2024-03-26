@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alyandher&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alyandher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyandher&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alyandher&show_icons=true&count_private=true&hide_border=true&title_color=3333ff&icon_color=3333ff&text_color=c9d1d9&bg_color=0d1117" alt="Alyandher github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyandher&layout=compact&hide_border=true&title_color=3333ff&text_color=3333ff&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a> <a href="https://instagram.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a>
+<a href="https://twitter.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a> <a href="https://instagram.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/alyandher/" target="blank"><img align="center" src="file:///C:/Users/alyan/OneDrive/Imagens/svg-images/linkedin-logo-2430.svg" alt="alyandher" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
