@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alyandher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alyandher faccioli santana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyandher faccioli santana" height="30" width="40" /></a>
-<a href="https://www.facebook.com/alyandher.facciolisantana/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alyandher Faccioli Santana" height="30" width="40" /></a>
-<a href="https://instagram.com/alyandher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a>
+<a href="https://twitter.com/alyandher" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alyandher/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyandher faccioli santana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alyandher.facciolisantana/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alyandher Faccioli Santana" height="30" width="40" /></a>
+<a href="https://instagram.com/alyandher" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
