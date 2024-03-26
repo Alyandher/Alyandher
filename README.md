@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Study+programming;Welcome!!!)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate developer fullstack student</h3>
+<h3 align="center">A Passionate Developer Full-Stack/Front-End Student</h3>
 
 
 <div align="center">  
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alyandher&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alyandher&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 </div>
 
