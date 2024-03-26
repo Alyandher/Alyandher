@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHiglander)+:%29;Study+programming;Welcome!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Study+programming;Welcome!!!)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate developer fullstack student</h3>
 
@@ -27,7 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a> <a href="https://instagram.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/alyandher/" target="blank"><img align="center" src="file:///C:/Users/alyan/OneDrive/Imagens/svg-images/linkedin-logo-2430.svg" alt="alyandher" height="30" width="40" /></a> 
+<a href="https://twitter.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alyandher" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alyandher faccioli santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyandher faccioli santana" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/alyandher.facciolisantana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alyandher.facciolisantana" height="30" width="40" /></a>
+<a href="https://instagram.com/alyandher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyandher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
