@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Studying+programming;Welcome!!!;Here+some+of+my+working)](https://git.io/typing-svg)
 
 ```javascript
-#!/usr/bin/javascript
-# -*- coding: utf-3 -*-
+#!/user/Alyandher/javascript
+# -*- coding: UTF-8 -*-
 
 
 class SoftwareEngineer:
