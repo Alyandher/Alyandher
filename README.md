@@ -3,23 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Studying+programming;Welcome!!!;Here+some+of+my+working)](https://git.io/typing-svg)
 
 ```javascript
-#!/user/Alyandher/javascript
-# -*- coding: UTF-8 -*-
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Alyandher 'DevHighlander' Faccioli Santana";
+    this.role = "Software Engineer";
+    this.languages_spoken = ["pt_BR", "en_US"];
+  }
 
+  sayHi() {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+}
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Alyandher 'DevHighlander' Faccioli Santana"
-        self.role = "Software Engineer"
-        self.language_spoken = ["pt_BR", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
+const me = new SoftwareEngineer();
+me.sayHi();
 ```
 
 <div align="center">  
