@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer fullstack student from Brasil</h3>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alyandher}/count.svg" /></p> 
 <br></div>
 
