@@ -32,4 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyandher&" alt="alyandher" /></p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=120&section=footer"/>
+
 
