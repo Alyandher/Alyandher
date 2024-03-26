@@ -4,7 +4,10 @@
 
 <h3 align="center">A passionate developer fullstack student from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alyandher&label=Profile%20views&color=0e75b6&style=flat" alt="alyandher" /> </p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alyandher}/count.svg" /></p> 
+<br></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alyandher" alt="alyandher" /></a> </p>
 
