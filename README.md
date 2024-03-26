@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Study+programming;Welcome!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Studying+programming;Welcome!!!;Here+some+of+my+working)](https://git.io/typing-svg)
 
-<h3 align="center">A Passionate Developer Full-Stack/Front-End Student</h3>
+<h3 align="center">Software Developer Student, Front-End/Full-Stack</h3>
 
 
 <div align="center">  
