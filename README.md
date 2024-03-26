@@ -2,8 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Alyandher+(DevHighlander)+:%29;Studying+programming;Welcome!!!;Here+some+of+my+working)](https://git.io/typing-svg)
 
-<h3 align="center">Software Developer Student, Front-End/Full-Stack</h3>
+```javascript
+#!/usr/bin/javascript
+# -*- coding: utf-3 -*-
 
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Alyandher 'DevHighlander' Faccioli Santana"
+        self.role = "Software Engineer"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alyandher&show_icons=true&count_private=true&hide_border=true&title_color=3333ff&icon_color=3333ff&text_color=c9d1d9&bg_color=0d1117" alt="Alyandher github stats" /> 
