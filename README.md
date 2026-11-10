@@ -18,21 +18,25 @@ from strategy to production.
 ## What I build
 
 - **AI Agents** — multi-step agents with Claude, GPT and custom orchestration
-- **n8n Workflows** — lead capture, CRM sync, Instagram publishing, WhatsApp automation
+- **Autonomous WhatsApp SDR** — real-time lead qualification and scheduling, no human in the loop
+- **Paid traffic & Google Business Profile management** — Meta/Google Ads campaigns, GBP for local lead generation
+- **Full commercial systems** — CRM + WhatsApp + AI agent + reporting dashboard
+- **n8n Workflows** — lead capture, CRM sync, social publishing, ads platforms, webhooks
 - **End-to-end delivery** — architecture, deployment (VPS + Easypanel), and ongoing ops
 
 ---
 
 ## Stack
 
-`n8n` · `Python` · `JavaScript / React` · `Claude AI` · `Evolution API` · `Supabase` · `Cloudflare`
+`n8n` · `Python` · `JavaScript / React` · `Claude AI` · `Evolution API` · `Meta Ads` · `Google Ads` · `Supabase` · `Cloudflare`
 
 ---
 
 ## Em português
 
 Consultor de automação B2B com IA. Ajudo empresas a eliminar operações manuais repetitivas
-usando agentes de IA e workflows n8n — da estratégia até a entrega em produção.
+e a captar e qualificar lead de ponta a ponta — agentes de IA, workflows n8n, tráfego pago
+e gestão de GBP — da estratégia até a entrega em produção.
 
 📩 alyandher@gmail.com
 
