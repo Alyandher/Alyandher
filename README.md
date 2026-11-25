@@ -75,7 +75,7 @@ Started in **May 2026**, one step at a time, with the receipts in the open:
 | 🤖 **Jul** | The WhatsApp AI SDR moves to a real AI-agent architecture, with scheduling on Google Calendar. |
 | 🧪 **Aug–Sep** | Open-source Deskcomm CRM installed, tested and adopted as the commercial CRM; ~800 prospect records migrated into it. |
 | 🎬 **Oct** | A content engine: short videos rendered from code (HyperFrames + TTS) and published to several networks automatically. |
-| 🔓 **Nov** | First contribution merged into an open-source project (below), a self-hosted AI agent running on Telegram over MCP, and a new channel on TikTok. |
+| 🔓 **Nov** | Three contributions merged into an open-source project (below), a self-hosted AI agent running on Telegram over MCP, and a new channel on TikTok. |
 
 ---
 
@@ -88,7 +88,9 @@ Started in **May 2026**, one step at a time, with the receipts in the open:
 
 **[DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** — open-source, self-hosted sales OS with native AI agents and WhatsApp.<br/>
 ✅ **[PR #4886](https://github.com/melgarafael/DeskcommCRM/pull/4886) merged** — `crm_count_leads`: an MCP tool that lets an agent answer "how many leads?" with numbers instead of paging through the whole list and sending every deal to the model. Credited in the project's v1.117.0 release notes.<br/>
-🧭 **[Issue #4996](https://github.com/melgarafael/DeskcommCRM/issues/4996)** — follow-up in progress: per-stage counts and conversation counts for agents.
+✅ **[PR #5192](https://github.com/melgarafael/DeskcommCRM/pull/5192) merged** — `crm_count_leads` now returns per-stage counts (`por_etapa`), so an agent can read the funnel in one call.<br/>
+✅ **[PR #5209](https://github.com/melgarafael/DeskcommCRM/pull/5209) merged** — `crm_count_conversations`: conversation counts by status without listing a single conversation, using the same visibility rules as the inbox.<br/>
+🏁 **[Issue #4996](https://github.com/melgarafael/DeskcommCRM/issues/4996)** — all follow-up items shipped.
 
 </td>
 </tr>
